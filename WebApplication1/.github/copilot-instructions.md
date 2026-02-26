@@ -1,0 +1,1 @@
+todo el texto generado debe estar en idioma español
